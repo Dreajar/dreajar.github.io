@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Expository Notes"
-permalink: /Math/
+permalink: /math/
 author_profile: true
 redirect_from:
   - /math
