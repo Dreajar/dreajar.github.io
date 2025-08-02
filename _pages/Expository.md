@@ -1,11 +1,16 @@
 ---
 layout: archive
 title: "Expository Notes"
-permalink: /Expository/
+permalink: /Math/
 author_profile: true
 redirect_from:
   - /math
 ---
 
 {% include base_path %}
-*  [Pro-etale stacks](/files/proetalestack.pdf), notes to accompany a talk I gave on how to use pro-etale descent to classify certain algebraic groups over an arbitrary field, such as 1-dimensional tori. 
+*  [An Exposition on_Nielson Theory and the Reidemeister Trace](/files/An_Exposition_on_Nielson_Theory_and_the_Reidemeister_Trace.pdf), expository paper on the ideas behind Nielson Theory and the Reidemeister Trace.
+
+*  [Classical Theorems: New and Old](/files/Classical_Theorems__New_and_Old.pdf), paper to provide background for Ravunel's _Complex cobordism and stable homotopy groups of spheres_.
+
+*  [EXPO: Dyer Lashof Operations](EXPO__Dyer_Lashof_Operations.pdf), notes to accompany a talk I gave.
+
