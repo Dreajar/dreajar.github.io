@@ -7,8 +7,14 @@ main:
   - title: "Seminars"
     url: /seminars/
     
-  - title: "Notes"
-    url: /Expository/
+  - title: "Math"
+    url: /math/
+
+  - title: "CS"
+    url: /cs/
+
+  - title: "Russian"
+    url: /russian/
 
   - title: "Miscellaneous"
     url: /miscc/
