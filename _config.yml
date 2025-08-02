@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Logan Hyslop"
+title                    : "Lucas Hou"
 title_separator          : "|"
-name                     : &name "Logan Hyslop"
-description              : &description "Hello there.  My name is Logan Hyslop,  I am currently a second year undergraduate at UCLA, and this is my webpage.  I am broadly interested in math, more specifically in different flavors of abstract nonsense."
-url                      : https://LoganHyslop.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Lucas Hou"
+description              : &description "Hello there.  My name is Lucas Hou,  I am currently a second year undergraduate at UCLA, and this is my webpage.  I am broadly interested in math, more specifically in different flavors of abstract nonsense."
+url                      : https://Dreajar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LoganHyslop/LoganHyslop.github.io"
+repository               : "Dreajar/Dreajar.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -73,13 +73,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Logan Hyslop"
+  name             : "Lucas Hou"
   avatar           : "Profile.jpg"
-  bio              : "Aspiring mathematician"
+  bio              : "Aspiring entrepreneur"
   location         : "UCLA"
   employer         :
   googlescholar    :
-  email            : "loganrhyslop@gmail.com"
+  email            : "lucashou03@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -88,7 +88,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "LoganHyslop"
+  github           : "Dreajar"
   google_plus      :
   keybase          :
   instagram        :
