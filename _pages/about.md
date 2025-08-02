@@ -18,8 +18,4 @@ Currently I am trying to get my ski instructor certification and learn Russian.
 
 I am primarily interested in homotopy theory and CS.
 
-Everyone likes the Mumford quote, “[Algebraic geometry] seems to have acquired
-the reputation of being esoteric, exclusive, and very abstract, with adherents who are secretly
-plotting to take over all the rest of mathematics. In one respect this last point is accurate.”     
-This description I believe also applies quite aptly to homotopy theory these days, and I'd like to further the plot.
-
+As Alan Greenberg once said, I am a PSD.
