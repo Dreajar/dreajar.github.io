@@ -12,5 +12,5 @@ redirect_from:
 
 *  [Classical Theorems: New and Old](/files/Classical_Theorems__New_and_Old.pdf), paper to provide background for Ravunel's _Complex cobordism and stable homotopy groups of spheres_.
 
-*  [EXPO: Dyer Lashof Operations](EXPO__Dyer_Lashof_Operations.pdf), notes to accompany a talk I gave.
+*  [EXPO: Dyer Lashof Operations](/files/EXPO__Dyer_Lashof_Operations.pdf), notes to accompany a talk I gave.
 
