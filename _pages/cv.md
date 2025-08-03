@@ -13,6 +13,6 @@ Education
 ======
 * B.S. in Mathematics, UCLA, 2025
 
-Papers
+dPapers
 ======
-*  [Multicast Distance Vector Forwarding in NDN Networks](/files/Multicast Distance Vector Forwarding in NDN Networks.pdf)
+*  [Multicast Distance Vector Forwarding in NDN Networks](https://vixra.org/abs/2508.0008)

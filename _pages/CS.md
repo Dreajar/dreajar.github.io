@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-*  [Multicast Distance Vector Forwarding in NDN Networks](/files/Multicast Distance Vector Forwarding in NDN Networks.pdf), paper about multicast strategies for Named Data Networking, an alternate internet architecture to IP.
+*  [Multicast Distance Vector Forwarding in NDN Networks](https://vixra.org/abs/2508.0008), paper about multicast strategies for Named Data Networking, an alternate internet architecture to IP.
 
 ## Personal Projects
 *  Going through MySQL Vitess source code just to learn.
