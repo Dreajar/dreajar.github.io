@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ramblings of a Pseudo-Intellectual"
+title: "Ramblings of a Pseudo-Mathematician"
 excerpt: "Hello, my name is Lucas Hou, and I just graduated from UCLA, where I studied math."
 author_profile: true
 redirect_from: 
