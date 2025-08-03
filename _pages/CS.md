@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Expository Notes"
+title: "Projects"
 permalink: /cs/
 author_profile: true
 redirect_from:

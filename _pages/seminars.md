@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Learning Seminars"
-permalink: /cs/
+permalink: /seminars/
 author_profile: true
 redirect_from:
-  - /cs
+  - /seminars
 ---
 {% include base_path %}
 *  [Pro-etale stacks](/files/proetalestack.pdf), paper I wrote to accompany a talk I gave on different multicast forwarding strategies in Named Data Networking.
