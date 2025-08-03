@@ -16,7 +16,7 @@ redirect_from:
 *  MySQL in-memory storage engine.
 *  Language Server Protocol for Markdown files for neovim (yes I use neovim).
 *  QLoRA-FSDP2.
-*  NDN Multicast tests.
+*  NDN Multicast strategies in Linux kernel.
 *  Language learning app for Chinese/English speakers.
 *  Cross-SQL languages time-based filtering script.
 *  Penalty-aware Robust Plan Selection in Query Optimisation (providing better query compiler hints).
