@@ -19,4 +19,4 @@ redirect_from:
 *  Tinkering with Linux kernel to use a better version of multicast networking (e.g., for Zoom calls) (as per my research in Named Data Networking Multicast strategies).
 *  Language learning app for Chinese/English speakers.
 *  Program to translate different queries across different SQL-based languages so users only need to speak 1 dialect of SQL.
-*  Making Postgres 7x faster on "stable" data by making the query planner select better query ordrers (e.g., "A join B then join C" instead of "A join C then join B") (Penalty-aware Robust Plan Selection in Query Optimisation).
+*  Making Postgres 7x faster on "stable" data by making the query planner select better query orders (e.g., "A join B then join C" instead of "A join C then join B") (Penalty-aware Robust Plan Selection in Query Optimisation).
