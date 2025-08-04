@@ -16,3 +16,4 @@ Education
 Papers
 ======
 *  [Multicast Distance Vector Forwarding in NDN Networks](https://vixra.org/abs/2508.0008)
+*  [An Exposition on_Nielson Theory and the Reidemeister Trace](https://vixra.org/abs/2508.0012)
